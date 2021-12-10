@@ -1,6 +1,8 @@
 import React from 'react';
 
 import sistema_llaves from '../assets/images/sistema_llaves.png';
+import data_ceson from '../assets/images/DataHomeScreen.png';
+import tv_creson from '../assets/images/TvCreson.png';
 
 interface Data {
     title: string;
@@ -62,12 +64,12 @@ export const data: Array<Data> = [
     {
         title: "Sistema Integral de Evaluación",
         description: "Proyecto realizado con el stack Mysql, Express, ReactJs, NodeJs",
-        img: "http://data.creson.edu.mx/static/media/home/DataHomeScreen.png",
+        img: data_ceson,
         content: <SIE />
     }, {
         title: "Tv Cresons",
         description: "Proyecto al que se le dio mantenimiento. Este proyecto está realizado en PHP",
-        img: "http://data.creson.edu.mx/static/media/home/TvCreson.png",
+        img: tv_creson,
         content: <TVCRESON />
     }, {
         title: "Sistema de llaves - UNISON",
