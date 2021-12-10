@@ -11,3 +11,36 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.title-line {
+  border-left: 4px solid #0d6efd;
+  border-bottom: 4px solid;
+  border-image: linear-gradient(to right,#0d6efd, #fff) 1;
+}
+
+.floating-button-container {
+  position: fixed;
+  z-index: 2;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: transparent;
+}
+
+.floating-button {
+  position: fixed;
+  bottom: 20px;
+  right: 10px;
+  z-index: 99;
+}
+
+@media (min-width: 768px) {
+  .project-card {
+    max-width: 18rem;
+  }
+}
+
+.App {
+  text-align: center;
+}
