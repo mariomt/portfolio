@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.b623b01a.chunk.css",
-    "main.js": "/portfolio/static/js/main.86c02d36.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.86c02d36.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.c723ee65.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.c723ee65.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.0bf68c44.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.0bf68c44.js.map",
     "static/js/2.ac2cd4c8.chunk.js": "/portfolio/static/js/2.ac2cd4c8.chunk.js",
@@ -13,12 +13,14 @@
     "static/media/1638996563173.af808f12.png": "/portfolio/static/media/1638996563173.af808f12.png",
     "static/media/DataHomeScreen.0aaa0e65.png": "/portfolio/static/media/DataHomeScreen.0aaa0e65.png",
     "static/media/TvCreson.5264a1c9.png": "/portfolio/static/media/TvCreson.5264a1c9.png",
+    "static/media/ciem_1.02870958.png": "/portfolio/static/media/ciem_1.02870958.png",
+    "static/media/factor3_1.3a86369e.png": "/portfolio/static/media/factor3_1.3a86369e.png",
     "static/media/sistema_llaves.29a512c8.png": "/portfolio/static/media/sistema_llaves.29a512c8.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0bf68c44.js",
     "static/js/2.ac2cd4c8.chunk.js",
     "static/css/main.b623b01a.chunk.css",
-    "static/js/main.86c02d36.chunk.js"
+    "static/js/main.c723ee65.chunk.js"
   ]
 }
